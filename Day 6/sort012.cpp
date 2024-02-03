@@ -25,3 +25,7 @@ int main() {
     cout << endl;
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions

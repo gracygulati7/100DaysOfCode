@@ -36,3 +36,6 @@ int main() {
     }
     return 0;
 }
+
+// link for question:
+// https://www.codingninjas.com/studio/problems/binary-search_972

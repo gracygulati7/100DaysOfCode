@@ -29,3 +29,7 @@ int main() {
     cout << "Missing Number: " << missingNumber << endl;
     return 0;
 }
+
+
+// link for question:
+// https://leetcode.com/problems/missing-number/description/

@@ -29,3 +29,7 @@ int main() {
     cout << endl;
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/greater-on-right-side4305/1?page=3&difficulty[]=-1&category[]=Arrays&sortBy=submissions

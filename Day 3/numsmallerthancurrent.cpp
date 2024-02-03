@@ -33,3 +33,6 @@ int main() {
     }
     return 0;
 }
+
+// link for the question:
+// https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/

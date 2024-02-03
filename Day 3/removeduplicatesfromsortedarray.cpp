@@ -32,3 +32,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// link for question:
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/

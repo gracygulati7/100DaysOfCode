@@ -29,3 +29,7 @@ int main() {
     }
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions

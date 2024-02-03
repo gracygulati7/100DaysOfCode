@@ -41,3 +41,7 @@ int main() {
     }
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1?page=1&difficulty[]=1&category[]=Arrays&sortBy=submissions

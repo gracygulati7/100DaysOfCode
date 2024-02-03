@@ -41,3 +41,7 @@ int main() {
     cout << "The trapped water amount is: " << result << endl;
     return 0;
 }
+
+
+// link for question:
+// https://leetcode.com/problems/trapping-rain-water/description/

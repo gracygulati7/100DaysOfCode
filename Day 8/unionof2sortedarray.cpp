@@ -44,3 +44,7 @@ int main() {
     }
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?page=2&difficulty[]=0&category[]=Arrays&sortBy=submissions

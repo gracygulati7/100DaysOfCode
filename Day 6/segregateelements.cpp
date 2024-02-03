@@ -32,3 +32,7 @@ int main() {
     cout << endl;
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1?page=2&difficulty[]=0&category[]=Arrays&sortBy=submissions

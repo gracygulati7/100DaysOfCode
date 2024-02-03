@@ -52,3 +52,7 @@ int main() {
     cout << "Result: [" << result[0] << ", " << result[1] << "]" << endl;
     return 0;
 }
+
+
+// link for question:
+// https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/

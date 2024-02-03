@@ -31,3 +31,7 @@ int main() {
     cout << "Maximum profit: " << result << endl;
     return 0;
 }
+
+
+// link for question:
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/

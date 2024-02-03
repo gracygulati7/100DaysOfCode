@@ -27,3 +27,6 @@ int main() {
     cout << "Maximum Subarray Sum: " << result << endl;
     return 0;
 }
+
+// link for the question:
+// https://leetcode.com/problems/maximum-subarray/description/

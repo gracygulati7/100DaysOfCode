@@ -31,3 +31,6 @@ int main() {
     cout << "Number of employees who met or exceeded the target: " << result << endl;
     return 0;
 }
+
+// link for question:
+// https://leetcode.com/problems/number-of-employees-who-met-the-target/description/

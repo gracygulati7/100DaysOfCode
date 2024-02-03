@@ -40,3 +40,7 @@ int main() {
     }
     return 0;
 }
+
+
+// link for question:
+// https://www.geeksforgeeks.org/problems/implement-atoi/1

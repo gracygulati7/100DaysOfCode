@@ -37,3 +37,7 @@ int main() {
     }
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions

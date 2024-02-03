@@ -30,3 +30,7 @@ int main() {
     cout << "Number of subsets: " << result << endl;
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/min-subsets-with-consecutive-numbers0601/1?page=3&difficulty[]=0&status[]=solved&category[]=Arrays&sortBy=submissions

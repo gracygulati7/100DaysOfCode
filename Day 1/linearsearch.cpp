@@ -29,3 +29,6 @@ int main() {
     }
     return 0;
 }
+
+// link for question:
+// https://www.codingninjas.com/studio/problems/linear-search_6922070

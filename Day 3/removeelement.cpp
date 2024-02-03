@@ -35,3 +35,6 @@ int main() {
     cout << "\nNew length: " << result << endl;
     return 0;
 }
+
+// link for the question:
+// https://leetcode.com/problems/remove-element/description/

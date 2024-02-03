@@ -26,3 +26,7 @@ int main() {
     cout << "The missing element in the array is: " << result << endl;
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/missing-element-of-ap2228/1?page=2&difficulty[]=0&status[]=solved&category[]=Arrays&sortBy=submissions

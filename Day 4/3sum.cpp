@@ -25,3 +25,6 @@ vector<vector<int>> findTriplets(vector<int>arr, int n, int K) {
         }
         return result;
     }
+
+// link for question:
+// https://leetcode.com/problems/3sum/description/

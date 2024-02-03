@@ -35,3 +35,6 @@ int main() {
     }
     return 0;
 }
+
+// link for the question:
+// https://leetcode.com/problems/two-sum/description/

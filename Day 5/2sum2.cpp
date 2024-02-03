@@ -35,3 +35,7 @@ int main() {
     }
     return 0;
 }
+
+
+// link for question:
+// https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/

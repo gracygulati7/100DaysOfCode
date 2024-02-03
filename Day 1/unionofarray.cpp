@@ -47,3 +47,5 @@ int main() {
     return 0;
 }
 
+// link for question:
+// https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1

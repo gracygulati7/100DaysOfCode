@@ -33,3 +33,7 @@ int main() {
     cout << "Total Fine: " << solution.totalFine(n, date, car, fine) << endl;
     return 0;
 }
+
+
+// link for question:
+// https://practice.geeksforgeeks.org/problems/find-the-fine4353/1?page=3&difficulty[]=-1&category[]=Arrays&sortBy=submissions
