@@ -1,4 +1,4 @@
-//! leetcode question 
+//! leetcode question 1921. Eliminate Maximum Number of Monsters
 
 //? link: https://leetcode.com/problems/eliminate-maximum-number-of-monsters/submissions/1183846636/?envType=daily-question&envId=2024-02-23
 
