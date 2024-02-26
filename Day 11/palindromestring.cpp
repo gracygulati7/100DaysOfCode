@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -23,4 +24,31 @@ int main() {
 }
 
 // link for question:
+=======
+#include <iostream>
+#include <algorithm>
+using namespace std;
+class Solution {
+public:
+    bool isPalindrome(string S) {
+        string rev = S; 
+        reverse(rev.begin(), rev.end());
+        return rev == S;
+    }
+};
+int main() {
+    Solution solution;
+    string inputString;
+    cout << "Enter a string: ";
+    cin >> inputString;
+    if (solution.isPalindrome(inputString)) {
+        cout << "The string is a palindrome." << endl;
+    } else {
+        cout << "The string is not a palindrome." << endl;
+    }
+    return 0;
+}
+
+// link for question:
+>>>>>>> 6b6e97ed4446623c37b08a068b75fa893951403d
 // https://practice.geeksforgeeks.org/problems/palindrome-string0817/1?page=1&difficulty[]=0&category[]=Strings&sortBy=submissions
