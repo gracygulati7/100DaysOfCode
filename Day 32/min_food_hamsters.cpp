@@ -14,8 +14,10 @@ public:
             if (hamsters[i]=='H') { // Check if the current character is 'H', indicating the presence of a hamster.
                 if(i+1<n && hamsters[i+1]=='.'){ // Check if there is an empty spot to the right of the hamster.
                     food++; // If true, increment the food counter to indicate placing a food bucket to feed the hamster.
-                    i+=3; // Move three positions to the right after placing a food bucket
-                }
+                    i+=3; // Move three positions to the right after placing a food bucket 
+// bcoz at i+1 we already placed at bucket, so then we will move to i+3 and check if there is a hamster or not coz if there will be then 
+// we will check for empty space at i-1 (which is i+2 in case of jump) and i+1
+                }                 
                 else if(i-1>=0 && hamsters[i-1]=='.'){ // If there is no empty spot to the right,check if there is an empty spot to the left of the hamster.
                     food++; // If true, increment the food counter to indicate placing a food bucket to feed the hamster.
                     i++; // Move one position to the right after placing a food bucket
