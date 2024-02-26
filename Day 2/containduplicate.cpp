@@ -33,3 +33,6 @@ int main() {
     }
     return 0;
 }
+
+//link for question: 
+// https://leetcode.com/problems/contains-duplicate/description/

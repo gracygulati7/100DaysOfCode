@@ -28,3 +28,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// link for question:
+// https://www.codingninjas.com/studio/problems/bubble-sort_980524

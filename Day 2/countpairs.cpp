@@ -33,3 +33,6 @@ int main() {
     cout << "Number of pairs with sum less than " << target << ": " << result << endl;
     return 0;
 }
+
+// link for question:
+// https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/
