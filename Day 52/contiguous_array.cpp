@@ -1,4 +1,4 @@
-//! Contiguous Array (LeetCode 525)
+//! Contiguous Array (LeetCode 525) PROBLEM OF THE DAY 16-3-2024
 
 //? Link: https://leetcode.com/problems/contiguous-array/
 
