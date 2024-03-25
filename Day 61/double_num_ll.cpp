@@ -1,6 +1,6 @@
-//! letcode question
+//! leetcode question 2816. Double a Number Represented as a Linked List
 
-//? link:
+//? link: https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/
 
 #include<bits/stdc++.h>
 using namespace std;
