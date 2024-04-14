@@ -6,8 +6,8 @@
 using namespace std;
 class Solution {
 public:
-    string removeKdigits(string num, int k) {
-        
+    string removeKdigits(string num, int k)
+    {    
         // This line declares a string variable named res and initializes it as an empty string. 
         string res="";   // This variable will store the result of the operation.
 
